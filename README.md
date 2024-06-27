@@ -1,5 +1,10 @@
 <!-- GIF SECTION -->
+<!-- 
+If you want to know how I made this gif
 
+I created a simple video using Canva and saved it as a gif.
+that is all.
+-->
 <a href="https://github.com/BBilgeKaplan
 ">![BBilgeKaplan
  Profile GIF](./assets/welcome.gif)</a>
