@@ -1,6 +1,8 @@
 <!-- GIF SECTION -->
 
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](github.gif)</a>
+<a href="https://github.com/BBilgeKaplan
+">![BBilgeKaplan
+ Profile GIF](./assets/welcome.gif)</a>
 
 <!-- Social icons section -->
 
