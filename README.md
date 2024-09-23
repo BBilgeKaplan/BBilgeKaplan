@@ -33,7 +33,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Languages and Tools </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href=""><img alt="C" title="C" src="./assets/C_logo.png" height="42"></a></code>
+  <code><a href=""><img alt="C" title="C" src="./assets/C_Logo.png" height="42"></a></code>
   <code><a href=""><img alt="C++" title="C++" src="./assets/cpp_logo.png" height="42"></a></code>
   <code><a href=""><img alt="C#" title="C#" src="./assets/c_sharp.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
