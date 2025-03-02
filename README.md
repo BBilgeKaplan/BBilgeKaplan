@@ -43,7 +43,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  
+  <code><a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0PMGDkkkufkdgxO2YUft81X9B3Nfk5fWBw&s" height="42"></a></code>
+ <code><a href="https://www.mysql.com/"><img alt="MySql" title="MySql" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="42"></a></code>
 </p>
 <br>
 
