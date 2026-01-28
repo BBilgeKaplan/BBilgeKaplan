@@ -20,12 +20,14 @@ that is all.
 <hr>
 
 <!-- Description about me -->
+<!--
 <h1 align="center"> 🤔 About me 👨‍💻 </h1>
 
 Hello 👋, I am a computer engineering student. <br/>
 Currently, I am focused on developing my skills in areas such as Security Protocols, Network Security, and Fundamentals of Cybersecurity. I aspire to work in these fields in the future, aiming to contribute to advancements and innovations that enhance digital security and protect data integrity.<br/> 
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
+-->
 
 
 <!-- languajes and skills section -->
